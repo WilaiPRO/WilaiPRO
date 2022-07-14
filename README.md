@@ -1,6 +1,6 @@
 {
 "Version":"15",
-"Url":"https://ignorant-requisitio.000webhostapp.com/VIPVPN.zip" ,
+"Url":"https://wilaivip.000webhostapp.com/VIPVPN.zip" ,
 "Changelog":"
 🎯การอัพเดตไฟล์ ล่าสุดเมื่อวันที่ 14/07/65
 📶เซิร์ฟเวอร์ที่ใช้งานได้ 🇹🇭 🇸🇬 🇭🇰 🇮🇳 🇯🇵 🇩🇪 🇦🇺 🇨🇦
